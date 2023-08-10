@@ -6,9 +6,15 @@ Welcome to the **Bharat Intern** GitHub repository! 🚀 Here, you will find an 
 
 1. ### Portfolio Website 💼
 
-   ![Portfolio Website](link_to_portfolio_screenshot.png)
+![Screenshot of Portfolio Website](Portfolio%20Website/img/portfolio-screenshot.png)
    
-   I've designed and developed a dynamic portfolio website using HTML and CSS. This project showcases my skills in front-end web development and user interface design. Check out the [ (https://myportfolio-dashvanth.netlify.app/) ]❤️
+   I've designed and developed a dynamic portfolio website using HTML and CSS. This project showcases my skills in front-end web development and user interface design. 
+
+   
+Check out the live demo  
+[ (https://myportfolio-dashvanth.netlify.app/) ]❤️ 
+
+
 and explore the [Source Code](link_to_portfolio_source_code).
 
 
